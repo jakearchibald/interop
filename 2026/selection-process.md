@@ -24,7 +24,7 @@ below.
 
 ## Timeline
 
-This is the general timeline for the Interop 2026 proposal selection 
+This is the general timeline for the Interop 2026 proposal selection
 process. The dates are centered on the Interop team meeting (Thursdays).
 Please note that the timelines are subject to change.
 
@@ -38,14 +38,6 @@ The aim of the proposal selection process is to generate a shared
 understanding of the merits of each proposal, and converge on a
 decision about the most impactful areas in which we can improve
 interop on the web over 2026.
-
-As in Interop 2024 and 2025, details of proposal selection and ranking
-remain participant confidential throughout the process. Final decisions
-will be published as the Interop team.
-
-Confidentiality does not prevent participating organizations from
-sharing their own priorities or roadmaps, as distinct from positions in the
-proposal selection process.
 
 ### Prior to Proposal Submission
 
@@ -149,7 +141,7 @@ Initial rankings are submitted in time for the November 20th meeting.
 Focus areas with any vetoes are eliminated.
 
 Proposals that have strong positive consensus (e.g. majority P1
-rankings, no P3 rankings) are adopted. Proposals with a strong 
+rankings, no P3 rankings) are adopted. Proposals with a strong
 consensus of low priority (e.g. many P3 ranking and no P1
 ranking, or many P3 and P1 only from the champion) are dropped.
 
@@ -184,3 +176,53 @@ proposal authors written.
 The Interop 2026 dashboard is published. Proposal authors are provided
 with feedback and the original GitHub issues are closed. Participants
 publish announcements of the launch.
+
+## External communication
+
+Goals:
+
+* Help developers understand the reasons why particular proposals were
+  chosen, and why others were not.
+* Present the final decisions as having cross-organization consensus.
+* Allow individual organizations to present their own view of
+  particular proposals.
+
+Prior to publication of final decisions:
+
+* Organizations may make public statements regarding their support,
+  objection to, or preference for particular proposals.
+* Organizations must not comment on the actual or predicted position
+  of other organizations.
+* Organizations must not make predictions on how discussion within
+  interop will go.
+
+During proposal selection:
+
+* Organizations must not preempt the publication of final decisions.
+* Organizations must not comment on non-public details of the
+  selection meetings.
+
+Publication of final decision:
+
+* The decision should provide justification for selection or
+  rejection. This may be brief and vague, but honest.
+* For rejected proposals, organizations may choose to be on the record
+  about their opposition.
+* If rejection is unanimous between organizations, this should be
+  stated.
+
+After publication of final decisions:
+
+* Organizations may make public statements regarding their support,
+  objection to, or preference for particular proposals, even in cases
+  where the final decision did not go that way. This must be framed as
+  acceptable compromise.
+* Organizations must not use combative language in relation to the
+  proposals. For example, they must not suggest they won a battle vs
+  other organizations.
+* Organizations must not reveal non-public details of the process.
+
+Individuals involved in the selection process are bound by the rules
+of 'organizations' above. Other individuals employed by member
+organizations are not bound by the same rules, but organizations are
+encouraged to handle disagreements internally.
